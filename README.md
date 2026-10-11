@@ -1,2 +1,4 @@
-# diegointellegence224
-L'intelligence au service de l’humanité p
+Name : diego-intellegence-224 
+Rutime : Node 
+But commend : npm install
+starter commend : npm start
